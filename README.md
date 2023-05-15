@@ -1,2 +1,2 @@
-# Python-for-cybersecurity
-🐍python: endless love affair🩸
+<h1 align="center">Python-for-cybersecurity</h1>
+
